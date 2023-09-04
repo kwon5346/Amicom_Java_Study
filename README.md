@@ -1,1 +1,1 @@
-# Amicom_Study_Java
+# Amicom_Java_Study
